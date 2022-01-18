@@ -1,3 +1,5 @@
+### This quick start template is forked from `caoxiemeihao/electron-vite-boilerplate`
+
 # electron-vite-boilerplate
 
 ![GitHub license](https://img.shields.io/github/license/caoxiemeihao/electron-vite-boilerplate?style=flat)
